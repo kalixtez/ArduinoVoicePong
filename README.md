@@ -1,7 +1,8 @@
-# Multimedia_FinalProyect
- Proyecto de final de multimedia: Hardware, audio e imagen
- Autores:
- 
- Javier De Jesus Silva Marin
- 
- Juan José García Vásquez
+Pong para Arduino controlado por sensores de sonido (con posibilidad de jugar con Joystick).
+
+Inspirado en Mario Kart DS.
+
+Hecho por:
+
+Javier Silva
+Juan Jose Vazquez
